@@ -1,0 +1,8 @@
+This is text
+const clientId = 'RSYOOUL3KMCGERGC03TQZ1UCRDJACLVMMER1LG5ZAAYR4A2D';
+const clientSecret = 'SOCFB1E4Y0MWWAJRGULTLC3TMPCA0ERDIT4T2IHK2VVRFQQA';
+const url = 'https://api.foursquare.com/v2/venues/explore?near=';
+
+// APIXU Info
+const apiKey = 'e3268ce69d8b488fafb63005192005';
+const forecastUrl = 'http://api.apixu.com/v1/forecast.json?key=';
